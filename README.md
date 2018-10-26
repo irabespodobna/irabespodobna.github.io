@@ -1,2 +1,2 @@
 
-recration of Google's startpage  https://irabespodobna.github.io/
+recration of Google's homepage  https://irabespodobna.github.io/
