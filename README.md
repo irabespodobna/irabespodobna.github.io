@@ -1,2 +1,2 @@
-# irabespodobna.github.io
-fake google training
+
+recration of Google's startpage  https://irabespodobna.github.io/
